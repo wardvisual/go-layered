@@ -1,0 +1,5 @@
+# go
+.idea/
+
+# env
+.env
